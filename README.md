@@ -24,7 +24,7 @@ from the training phase and can be reused without the
 requirement to re-train the network each time.
 
 The convolutional neural network Binary_crossentropy has 
-93,5% in comparison to 67% obtained with Categorical_crossentropy.
+93,5% accuracy in comparison to 67% obtained from Categorical_crossentropy.
 Data obtained from Cifar10-Keras-Tensorflow-Binary_crossentropy-93.5%
 shows a better result; however, overfitting can't be discarded due to the
 fact that when new images are fed, error increases.
